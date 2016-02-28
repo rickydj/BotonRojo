@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BotonRojo</string>
+    <string name="action_settings">Configuración</string>
+    <string name="edit_message">Escriba su deseo</string>
+    <string name="button_send">Enviar</string>
+    <string name="title_activity_mostrar_mensaje">MostrarMensaje</string>
+</resources>

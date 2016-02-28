@@ -1,0 +1,1064 @@
+[
+    {
+        "outputFile": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 20,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 418,
+                    "endColumn": 90,
+                    "endOffset": 504
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 509,
+                    "endColumn": 102,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 612,
+                    "endColumn": 102,
+                    "endOffset": 710
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 715,
+                    "endColumn": 104,
+                    "endOffset": 815
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 820,
+                    "endColumn": 106,
+                    "endOffset": 922
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 927,
+                    "endColumn": 108,
+                    "endOffset": 1031
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1036,
+                    "endColumn": 108,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endColumn": 108,
+                    "endOffset": 1249
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1254,
+                    "endColumn": 108,
+                    "endOffset": 1358
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1363,
+                    "endColumn": 108,
+                    "endOffset": 1467
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1472,
+                    "endColumn": 106,
+                    "endOffset": 1574
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1579,
+                    "endColumn": 102,
+                    "endOffset": 1677
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1682,
+                    "endColumn": 118,
+                    "endOffset": 1796
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1801,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1951
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1956,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 2106
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2111,
+                    "endColumn": 104,
+                    "endOffset": 2211
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2216,
+                    "endColumn": 120,
+                    "endOffset": 2332
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2337,
+                    "endColumn": 100,
+                    "endOffset": 2433
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2438,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 2580
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2585,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 2721
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2726,
+                    "endColumn": 102,
+                    "endOffset": 2824
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2829,
+                    "endColumn": 118,
+                    "endOffset": 2943
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2948,
+                    "endColumn": 106,
+                    "endOffset": 3050
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3055,
+                    "endColumn": 102,
+                    "endOffset": 3153
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3158,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 3300
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3305,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 3455
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3460,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 3626
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3631,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 3775
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3780,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 3940
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3945,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 4097
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4102,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 4248
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4253,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 4397
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4402,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 4546
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4551,
+                    "endColumn": 111,
+                    "endOffset": 4658
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4663,
+                    "endColumn": 146,
+                    "endOffset": 4805
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4810,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 4958
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4963,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 5105
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5110,
+                    "endColumn": 74,
+                    "endOffset": 5180
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5185,
+                    "endColumn": 88,
+                    "endOffset": 5269
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5274,
+                    "endColumn": 86,
+                    "endOffset": 5356
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5361,
+                    "endColumn": 100,
+                    "endOffset": 5457
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5462,
+                    "endLine": 113,
+                    "endColumn": 12,
+                    "endOffset": 8941
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 8946,
+                    "endLine": 116,
+                    "endColumn": 12,
+                    "endOffset": 9127
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 9132,
+                    "endLine": 165,
+                    "endColumn": 12,
+                    "endOffset": 12623
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 12628,
+                    "endLine": 168,
+                    "endColumn": 12,
+                    "endOffset": 12821
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 12826,
+                    "endLine": 170,
+                    "endColumn": 12,
+                    "endOffset": 12944
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 12949,
+                    "endLine": 172,
+                    "endColumn": 12,
+                    "endOffset": 13067
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 13072,
+                    "endLine": 174,
+                    "endColumn": 12,
+                    "endOffset": 13180
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 13185,
+                    "endLine": 177,
+                    "endColumn": 12,
+                    "endOffset": 13363
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 13368,
+                    "endLine": 179,
+                    "endColumn": 12,
+                    "endOffset": 13494
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 13499,
+                    "endColumn": 116,
+                    "endOffset": 13611
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 13616,
+                    "endColumn": 88,
+                    "endOffset": 13700
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 13705,
+                    "endColumn": 110,
+                    "endOffset": 13811
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 13816,
+                    "endColumn": 126,
+                    "endOffset": 13938
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 13943,
+                    "endColumn": 100,
+                    "endOffset": 14039
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 14044,
+                    "endColumn": 94,
+                    "endOffset": 14134
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 14139,
+                    "endColumn": 122,
+                    "endOffset": 14257
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 14262,
+                    "endColumn": 128,
+                    "endOffset": 14386
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 14391,
+                    "endColumn": 116,
+                    "endOffset": 14503
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 14508,
+                    "endLine": 190,
+                    "endColumn": 12,
+                    "endOffset": 14638
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 14643,
+                    "endLine": 192,
+                    "endColumn": 12,
+                    "endOffset": 14781
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 14786,
+                    "endLine": 194,
+                    "endColumn": 12,
+                    "endOffset": 14916
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 14921,
+                    "endLine": 196,
+                    "endColumn": 12,
+                    "endOffset": 15035
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 15040,
+                    "endLine": 200,
+                    "endColumn": 12,
+                    "endOffset": 15236
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 15241,
+                    "endLine": 202,
+                    "endColumn": 12,
+                    "endOffset": 15355
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 15360,
+                    "endColumn": 92,
+                    "endOffset": 15448
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 15453,
+                    "endColumn": 110,
+                    "endOffset": 15559
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 15564,
+                    "endColumn": 55,
+                    "endOffset": 15615
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 15620,
+                    "endLine": 207,
+                    "endColumn": 12,
+                    "endOffset": 15722
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 15727,
+                    "endLine": 211,
+                    "endColumn": 12,
+                    "endOffset": 15917
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 15922,
+                    "endLine": 213,
+                    "endColumn": 12,
+                    "endOffset": 16028
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 16033,
+                    "endLine": 215,
+                    "endColumn": 12,
+                    "endOffset": 16161
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 16166,
+                    "endColumn": 94,
+                    "endOffset": 16256
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 16261,
+                    "endColumn": 90,
+                    "endOffset": 16347
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 16352,
+                    "endLine": 222,
+                    "endColumn": 12,
+                    "endOffset": 16656
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 16661,
+                    "endColumn": 112,
+                    "endOffset": 16769
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 16774,
+                    "endColumn": 116,
+                    "endOffset": 16886
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 16891,
+                    "endLine": 226,
+                    "endColumn": 12,
+                    "endOffset": 17025
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 17030,
+                    "endLine": 233,
+                    "endColumn": 12,
+                    "endOffset": 17378
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 17383,
+                    "endLine": 240,
+                    "endColumn": 12,
+                    "endOffset": 17743
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 17748,
+                    "endLine": 250,
+                    "endColumn": 12,
+                    "endOffset": 18428
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 18433,
+                    "endLine": 260,
+                    "endColumn": 12,
+                    "endOffset": 19114
+                },
+                "from": {
+                    "file": "C:\\Users\\Jorge Sanchez\\AndroidStudioProjects\\BotonRojo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            }
+        ]
+    }
+]
